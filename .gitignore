@@ -1,0 +1,13 @@
+build/
+Debug/
+Release/
+.vscode/
+.idea/
+*.o
+*.elf
+*.bin
+*.map
+*.hex
+*.log
+.DS_Store
+Thumbs.db
