@@ -1,4 +1,4 @@
-# ESP32 True RMS Current Monitor (WCS1700)
+# ESP32 True RMS AC Current Monitor (WCS1700)
 
 A dual-core FreeRTOS-based ESP32 application designed for accurate AC current measurement using the WCS1700 Hall-effect current sensor.
 
